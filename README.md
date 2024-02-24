@@ -1,6 +1,11 @@
 # docker-fullcycle
 Desafio GO
 
+Passo a passo:
+
+1- Fazer o pull da imagem com docker pull caiocris/fullcycle
+2- Dentro do diretorio golang executar -> docker run --rm caiocris/fullcycle
+
 [DockerHub link](https://hub.docker.com/repository/docker/caiocris/fullcycle/general)
 
 [Artigo Medium](https://medium.com/swlh/reducing-container-image-size-esp-for-go-applications-db7658e9063a)
